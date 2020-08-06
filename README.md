@@ -13,7 +13,7 @@ This is the Pneumonia detection web app wherein user need to uplaod chest x-ray 
   
 # Want to run on your pc?
  * Download the zip and extract. 
- * Make sure you satiesfies requirements.txt.
+ * Make sure your system satiesfies requirements.txt.
  * Make sure your cmd path points to the 'xray_scan' directory, then run the local server using 'python manage.py runserver' command.
  * This is how homepage looks like :
  
