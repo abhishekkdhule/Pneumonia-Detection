@@ -22,5 +22,5 @@ This is the Pneumonia detection web app wherein user need to uplaod chest x-ray 
  * Uplaod chest x-ray image to diagnose the x-ray
  * This is how output page looks like :
  
- ![output]()
+ ![output](https://github.com/abhi9137/Pneumonia-Detection/blob/master/xray_scan/output.JPG)
  
