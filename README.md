@@ -11,4 +11,9 @@ This is the Pneumonia detection web app wherein user need to uplaod chest x-ray 
   * Saved the model which gave best accuracy and recall.
   * Created a django app for making the classification.
   
-
+# Want to run on your pc?
+ * Download the zip and extract. 
+ * Make sure you satiesfies requirements.txt.
+ * Make sure your cmd path points to the 'xray_scan' directory, then run the local server using 'python manage.py runserver' command.
+ * homepage will look like thisL:
+ ![homepage]()
