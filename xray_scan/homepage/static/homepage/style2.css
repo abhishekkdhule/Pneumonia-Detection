@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(4, 62, 112);
+}
+.img-box{
+    margin:50px auto;
+    background-color: aqua;
+    width:30%;
+    height:480px;
+    padding: 10px;
+
+}
+.under{
+    color:rgb(255, 0, 0);
+}
+.image{
+    /* margin-top:100px; */
+    margin-left:5%;
+    width:90%;
+    height:80%;
+}   
+.text1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+.heading{
+    color:white;
+    text-align: center;
+    font-size: 45px;
+    /* background-color: red; */
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+@media(max-width:950px){
+    .img-box{
+        width:40%;
+    }
+}
+@media(max-width:500px){
+    .heading{
+        font-size:35px;
+    }
+    .img-box{
+        height:450px;
+        width:80%;
+    }
+}

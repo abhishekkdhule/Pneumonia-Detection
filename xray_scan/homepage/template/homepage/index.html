@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'homepage/style.css' %}">
+    <title>Pneumonia</title>
+</head>
+<body>
+    <h2 class="heading">Pneumonia Detection Using Chest X-ray</h2>
+    <div class="form1">
+        <form method = "post" enctype="multipart/form-data"> 
+            {% csrf_token %} 
+            <h2 class="sub-heading">Upload chest x-ray image</h2>
+            <div class='image-upload'> {{ form.as_p }} </div>
+            <button class="button" type="submit">Upload</button> 
+        </form> 
+    </div>
+</body>
+</html>

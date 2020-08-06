@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(4, 62, 112);
+    padding: 30px auto;
+}
+.heading{
+    color:white;
+    text-align: center;
+    font-size: 45px;
+    /* background-color: red; */
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.sub-heading{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    /* background-color: red; */
+    font-family: 'Source Sans Pro', sans-serif; 
+}
+.form1{
+    width:60%;
+    height:300px;
+    margin:30px auto;
+    padding:10px;
+    background-color: rgb(7, 9, 104);
+}
+.image-upload{
+    width:40%;
+    margin:10px auto;
+    padding: 20px;
+    background-color: rgb(155, 236, 241);
+}
+.button{
+    font-family:'Source Sans Pro',sans-serif;
+    font-size:18px;
+    display:block;
+    width:120px;
+    height:40px;
+    margin:50px auto;
+    align:center;
+    border-width: 0;
+    border-radius: 50px;
+    background-color: rgb(0, 238, 255);
+    box-shadow: 2px 2px 5px 1px rgb(107, 184, 247);
+}
+.button:hover{
+    background-color: rgb(0, 238, 255);
+    box-shadow: 3px 3px 10px 4px rgb(107, 184, 247);
+
+}
