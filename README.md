@@ -16,4 +16,4 @@ This is the Pneumonia detection web app wherein user need to uplaod chest x-ray 
  * Make sure you satiesfies requirements.txt.
  * Make sure your cmd path points to the 'xray_scan' directory, then run the local server using 'python manage.py runserver' command.
  * homepage will look like thisL:
- ![homepage]()
+ ![homepage](https://github.com/abhi9137/Pneumonia-Detection/blob/master/xray_scan/homepage.JPG)
