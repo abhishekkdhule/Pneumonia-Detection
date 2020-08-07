@@ -13,7 +13,7 @@ This is the Pneumonia detection web app wherein user needs to uplaod chest x-ray
   
 ## Want to run on your pc?
  * Download the zip and extract. 
- * Make sure your system tensorflow 2.0.
+ * Make sure your system has tensorflow 2.0.
  * Make sure your cmd path is same as your working directory i.e 'xray_scan' directory, then run the local server using 'python manage.py runserver' command.
  * This is how homepage looks like :
  
