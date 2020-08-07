@@ -24,3 +24,5 @@ This is the Pneumonia detection web app wherein user need to uplaod chest x-ray 
  
  ![output](https://github.com/abhi9137/Pneumonia-Detection/blob/master/xray_scan/output.JPG)
  
+ ### For better understanding of training of models please go through my [kaggle notebook](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), do upvote and suggest changes if any.
+ 
