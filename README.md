@@ -1,6 +1,6 @@
 # Pneumonia-Detection
 This is the Pneumonia detection web app wherein user needs to uplaod chest x-ray image to diagnose if the patient has Pneumonia or not.
-* You may refer my kaggle notebook which explains training of models. [kaggle notebook](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+* You may refer my kaggle notebook which explains training of models. [kaggle notebook](https://www.kaggle.com/abhishekdhule/pnemonia-detection-resnet-and-inception-tensorflow)
 ### Steps followed to create this project:
   * Collected a dataset consisting x-ray images from kaggle. [here is the dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
   * Made a split of data as training, validation and test dataset.
@@ -24,5 +24,5 @@ This is the Pneumonia detection web app wherein user needs to uplaod chest x-ray
  
  ![output](https://github.com/abhi9137/Pneumonia-Detection/blob/master/xray_scan/output.JPG)
  
- ### For better understanding of training of models please go through my [kaggle notebook](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), do upvote and suggest changes if any.
+ ### For better understanding of training of models please go through my [kaggle notebook](https://www.kaggle.com/abhishekdhule/pnemonia-detection-resnet-and-inception-tensorflow), do upvote and suggest changes if any.
  
